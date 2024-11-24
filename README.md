@@ -207,3 +207,15 @@ spark.stop()
 
 - Посилання на репозиторій `goit-de-hw-04`.
 - Прикріплений текстовий файл із назвою ДЗ4_ПІБ.
+
+### Результат виконаного завдання № 1
+
+![Results](./print_screens/part_01_print_screen.png)
+
+### Результат виконаного завдання № 2
+
+![Results](./print_screens/part_02_print_screen.png)
+
+### Результат виконаного завдання № 3
+
+![Results](./print_screens/part_03_print_screen.png)
